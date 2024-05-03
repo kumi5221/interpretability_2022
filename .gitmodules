@@ -1,3 +1,3 @@
 [submodule "interpretability_2022"]
-	path = interpretability_2022
+	path = interpretability_2022/experiment/
 	url = https://github.com/kumi5221/interpretability_2022.git
